@@ -4,3 +4,6 @@
 [submodule "tool"]
 	path = tool
 	url = git@github.com:tsukasakop/42-tool.git
+[submodule "cursus/get_next_line"]
+	path = cursus/get_next_line
+	url = git@github.com:tsukasakop/42-get-next-line.git

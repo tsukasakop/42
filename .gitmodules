@@ -7,3 +7,6 @@
 [submodule "cursus/get_next_line"]
 	path = cursus/get_next_line
 	url = git@github.com:tsukasakop/42-get-next-line.git
+[submodule "cursus/libft"]
+	path = cursus/libft
+	url = git@github.com:tsukasakop/42-libft.git

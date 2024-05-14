@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:tsukasakop/42-docs.git
+[submodule "tool"]
+	path = tool
+	url = git@github.com:tsukasakop/42-tool.git

@@ -10,3 +10,6 @@
 [submodule "cursus/libft"]
 	path = cursus/libft
 	url = git@github.com:tsukasakop/42-libft.git
+[submodule "reloaded/go-piscine/go/00"]
+	path = reloaded/go-piscine/go/00
+	url = git@github.com:tsukasakop/42-go-piscine-go-00.git

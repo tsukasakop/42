@@ -13,3 +13,6 @@
 [submodule "reloaded/go-piscine/go/00"]
 	path = reloaded/go-piscine/go/00
 	url = git@github.com:tsukasakop/42-go-piscine-go-00.git
+[submodule "template"]
+	path = template
+	url = git@github.com:tsukasakop/42-repo-template.git
